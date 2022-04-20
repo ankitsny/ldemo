@@ -3,7 +3,11 @@
   "version": "0.2.0",
   "description": "> TODO: description",
   "author": "Ankit Kumar <ankit_sony3@hotmail.com>",
-  "homepage": "",
+  "homepage": "https://ankso333@github.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anks333/ldemo/tree/main/packages/sub"
+  },
   "license": "ISC",
   "main": "lib/sub.js",
   "typings": "lib/sub.d.ts",

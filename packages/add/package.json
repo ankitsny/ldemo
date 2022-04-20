@@ -3,8 +3,12 @@
   "version": "0.2.0",
   "description": "> TODO: description",
   "author": "Ankit Kumar <ankit_sony3@hotmail.com>",
-  "homepage": "",
-  "license": "ISC",
+  "homepage": "https://ankso333@github.io",
+  "license": "ISC",,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anks333/ldemo/tree/main/packages/add"
+  },
   "main": "lib/add.js",
   "directories": {
     "lib": "lib",
