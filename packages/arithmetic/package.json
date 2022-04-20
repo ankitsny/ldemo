@@ -1,6 +1,6 @@
 {
   "name": "arithmetic",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ankso/add": "^0.1.0",
-    "@ankso/multiply": "^0.1.0",
-    "@ankso/sub": "^0.1.0"
+    "@ankso/add": "^0.2.0",
+    "@ankso/multiply": "^0.2.0",
+    "@ankso/sub": "^0.2.0"
   },
   "gitHead": "dc42d5abd35a1ba2e11b0d9cfbe486656aacfcc1"
 }
