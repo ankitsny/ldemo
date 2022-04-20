@@ -1,0 +1,21 @@
+{
+  "name": "@ankso/add",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Ankit Kumar <ankit_sony3@hotmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/add.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "typings": "lib/add.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc": "tsc"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@ankso/multiply",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Ankit Kumar <ankit_sony3@hotmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/multiply.js",
+  "typings": "lib/multiply.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc": "tsc"
+  }
+}
