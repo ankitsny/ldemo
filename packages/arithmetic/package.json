@@ -2,6 +2,7 @@
   "name": "arithmetic",
   "version": "0.2.3",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +16,5 @@
     "@ankso/multiply": "^0.2.3",
     "@ankso/sub": "^0.2.3"
   },
-  "gitHead": "efb8925a01af8ea0e9aec4ac32c31d94ad51419a"
+  "gitHead": "9cd3f2820735cc6b0b4a88f8254e2d965769aaad"
 }
