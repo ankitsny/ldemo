@@ -24,6 +24,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "tsc": "tsc"
-  },
-  "gitHead": "9cd3f2820735cc6b0b4a88f8254e2d965769aaad"
+  }
 }
