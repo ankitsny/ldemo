@@ -1,1 +1,1 @@
-export const add = (a: number, b: number): number => a + b;
+export const add = (...a: Array<number>): number => a.reduce((res, v) => res + v);
