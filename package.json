@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "tsc": "tsc",
-    "publish": "lerna run tsc && lerna publish"
+    "publish": "lerna run tsc && lerna publish --no-private"
   },
   "devDependencies": {
     "@types/node": "^17.0.25",
